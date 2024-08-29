@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmad Nakawa\\source\\repos\\DemoMVC_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8C87C1E-7927-4477-A133-AE06B1DE51D7}|DemoMVC_02\\DemoMVC_02.csproj|c:\\users\\ahmad nakawa\\source\\repos\\demomvc_02\\demomvc_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8C87C1E-7927-4477-A133-AE06B1DE51D7}|DemoMVC_02\\DemoMVC_02.csproj|solutionrelative:demomvc_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad Nakawa\\source\\repos\\DemoMVC_02\\DemoMVC_02\\Program.cs",
+              "RelativeDocumentMoniker": "DemoMVC_02\\Program.cs",
+              "ToolTip": "C:\\Users\\Ahmad Nakawa\\source\\repos\\DemoMVC_02\\DemoMVC_02\\Program.cs",
+              "RelativeToolTip": "DemoMVC_02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:32:14.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

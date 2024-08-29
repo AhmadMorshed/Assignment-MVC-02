@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "A8yeCdhDQxABofS50g6WztChU6GkfY9+UEMhY9Tc8Yc=",
+  "Source": "DemoMVC_02",
+  "BasePath": "_content/DemoMVC_02",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DemoMVC_02\\wwwroot",
+      "Source": "DemoMVC_02",
+      "ContentRoot": "C:\\Users\\Ahmad Nakawa\\source\\repos\\DemoMVC_02\\DemoMVC_02\\wwwroot\\",
+      "BasePath": "_content/DemoMVC_02",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ahmad Nakawa\\source\\repos\\DemoMVC_02\\DemoMVC_02\\wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css",
+      "SourceId": "DemoMVC_02",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad Nakawa\\source\\repos\\DemoMVC_02\\DemoMVC_02\\wwwroot\\",
+      "BasePath": "_content/DemoMVC_02",
+      "RelativePath": "lib/bootstrap/css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad Nakawa\\source\\repos\\DemoMVC_02\\DemoMVC_02\\wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "SourceId": "DemoMVC_02",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad Nakawa\\source\\repos\\DemoMVC_02\\DemoMVC_02\\wwwroot\\",
+      "BasePath": "_content/DemoMVC_02",
+      "RelativePath": "lib/bootstrap/js/bootstrap.bundle.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Ahmad Nakawa\\source\\repos\\DemoMVC_02\\DemoMVC_02\\wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js",
+      "SourceId": "DemoMVC_02",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ahmad Nakawa\\source\\repos\\DemoMVC_02\\DemoMVC_02\\wwwroot\\",
+      "BasePath": "_content/DemoMVC_02",
+      "RelativePath": "lib/bootstrap/js/bootstrap.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\js\\bootstrap.min.js"
+    }
+  ]
+}
